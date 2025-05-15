@@ -1,5 +1,5 @@
 from utils import db_connect
-engine = db_connect()
+#engine = db_connect()
 
 from pickle import load
 import streamlit as st
